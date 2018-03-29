@@ -1,5 +1,5 @@
-# 2016-Fall-OperatingSystem-HomeWork
-2016 Fall NCTU CS OperatingSystem Course
+# 2016Fall-OperatingSystems-HW
+NCTU CS DCP4334 Introduction to Operating Systems (2016 Fall)
 
 HW1：ForK(), Fork() + exec() + pipe()
 
