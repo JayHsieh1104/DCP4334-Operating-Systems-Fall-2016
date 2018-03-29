@@ -9,4 +9,4 @@ HW2：Various Scheduling
        2.Shortest-Remaining-Time-First
        3.Multilevel Feedback Queue: Round-Robin(第一層) + First-Come, First-Served (第二層)
        
-HW3：Speed Up by using pthread
+HW3：Speed up existed program by using pthread
