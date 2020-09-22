@@ -1,5 +1,5 @@
 # Introduction to Operating Systems Homework (Fall 2016)
-NCTU CS DCP4334 Introduction to Operating Systems (Fall 2016)
+NCTU DCP4334 Introduction to Operating Systems (Fall 2016)
 
 ## HW1: Fork system call practice
 1. forK()
