@@ -1,12 +1,13 @@
-# 2016Fall-OperatingSystems
-NCTU CS DCP4334 Introduction to Operating Systems (2016 Fall)
+# Introduction to Operating Systems Homework (Fall 2016)
+NCTU CS DCP4334 Introduction to Operating Systems (Fall 2016)
 
-HW1：ForK(), Fork() + exec() + pipe()
+## HW1: Fork system call practice
+1. forK()
+2. fork() + exec() + pipe()
 
-HW2：Various Scheduling 
-
-       1.Shortest-Job-First
-       2.Shortest-Remaining-Time-First
-       3.Multilevel Feedback Queue: Round-Robin(第一層) + First-Come, First-Served (第二層)
+## HW2: OS scheduling algorithms implementation
+1. Shortest job first
+2. Shortest remaining time first
+3. A multiple level feedback queue: round robin + first come first served
        
-HW3：Speed up existed program by using pthread
+## HW3：Speed up existed program with pthread
